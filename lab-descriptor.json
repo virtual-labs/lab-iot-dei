@@ -13,60 +13,70 @@
   "experiments":[
   {
     "name": "To simulate interfacing of basics input components (pushbutton, potentiometer, slider switch and photoresistor) with Arduino",
+    "short-name": "basics-input-components",
     "repo": "https://github.com/virtual-labs/exp-basics-input-components-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "To simulate interfacing of basics output components (RGB LED, 7 segment, OLED, LCD 16×2 and buzzer) with Arduino",
+    "short-name": "basics-output-components",
     "repo": "https://github.com/virtual-labs/exp-basics-output-components-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "To simulate interfacing of multiple motors (DC Motor, Servo Motor and Stepper Motor) with Arduino",
+    "short-name": "multiple-motors",
     "repo": "https://github.com/virtual-labs/exp-multiple-motors-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "To simulate interfacing of multiple sensors (Ultrasonic sensor, PIR Sensor, DHT sensor, Soil Moisture, MQ135 Sensors) with Arduino",
+    "short-name": "multiple-sensors",
     "repo": "https://github.com/virtual-labs/exp-multiple-sensors-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Simulation of sending live sensors data on IoT Platform using HTTP Protocols and ESP8266/ESP32",
+    "short-name": "http-protocols",
     "repo": "https://github.com/virtual-labs/exp-http-protocols-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Simulation of sending live sensors data on IoT Platform using MQTT Protocols and ESP8266/ESP32",
+    "short-name": "mqtt-protocols",
     "repo": "https://github.com/virtual-labs/exp-mqtt-protocols-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Simulation of establishing master slave model using Arduino and I2C Protocols",
+    "short-name": "master-slave-model",
     "repo": "https://github.com/virtual-labs/exp-master-slave-model-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Simulation of establishing interrelation between cloud (AWS, Microsoft Azure, ThingSpeak and IBM Bluemix) and ESP8266/ESP32",
+    "short-name": "cloud-interrelation",
     "repo": "https://github.com/virtual-labs/exp-interrelation-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "To create IoT Dashboard for remote monitoring",
+    "short-name": "remote-monitoring-dashboard",
     "repo": "https://github.com/virtual-labs/exp-remote-monitoring-dei",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "To create IoT Application using LoRaWAN and ESP8266/ESP32",
+    "short-name": "lorawan-application",
     "repo": "https://github.com/virtual-labs/exp-lorawan-dei",
     "tag": "v1.0.0",
     "deploy": true
